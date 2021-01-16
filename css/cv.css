@@ -1,0 +1,124 @@
+body{
+  margin: 0;
+ 
+  background-image: url("../image/fond.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+footer{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+#apropos{
+  background-color: rgba(246, 251, 255, 0.3);
+  border-radius: 50px;
+}
+#apropos p{
+  font-size: 1.4em;
+}
+#formation{
+  background-color: rgba(246, 251, 255, 0.3);
+  border-radius: 50px;
+  margin-top: 10px;
+}
+#experience{
+  background-color: rgba(246, 251, 255, 0.3);
+  border-radius: 50px;
+  margin-top: 10px;
+}
+h3{
+  text-align: center;
+}
+#compétence{
+  background-color: rgba(246, 251, 255, 0.3);
+  margin-top: 10px;
+  border-radius: 50px;
+}
+#compétence div{
+  width: 20%;
+}
+#compétence img{
+  height: 200px;
+}
+#git{
+  background-color: rgba(246, 251, 255, 0.3);
+  margin-top: 10px;
+  border-radius: 50px;
+}
+#git img{
+  width:600px;
+  height:300px;
+}
+#git div{
+  text-align: center;
+}
+#git p{
+  text-align: center;
+}
+#infos{
+  background-color: rgba(246, 251, 255, 0.3);
+  margin-top: 10px;
+  border-radius: 50px;
+}
+li{
+  list-style-type: none;
+}
+li a:link{
+  color: rgb(32, 32, 32);
+  text-decoration: none;
+}
+.navbar{
+  text-align: center;
+}
+@media(max-width:1200px){
+  #compétence img{
+    height: 130px;
+  }
+  #git img{
+    width:500px;
+    height:250px;
+  }
+}
+@media(max-width:900px){
+  #compétence img{
+    height: 80px;
+  }
+  #git img{
+    width:400px;
+    height:200px;
+  }
+}
+/* Défilement de droite à gauche */
+.marquee-rtl {
+    overflow: hidden; /* important */
+    width:30%; max-width: 100em; /* A ADAPTER */
+  }
+  .marquee-rtl > div {
+    display: inline-block; /* important */
+    white-space: nowrap; /* important */
+    animation: defilement-rtl 5s infinite linear; /* défilement */
+    font-size: 2em;
+  }
+
+  @keyframes defilement-rtl {
+    0% {
+      -webkit-transform: translate(0,0,0);
+      transform: translate(0,0,0);
+    }
+    100% {
+      -webkit-transform: translate(-100%);
+      transform: translate(-100%);
+    }
+  }
+  .marquee-rtl {
+    margin-left: 35%;
+  }
+  .defile::after {
+	content:attr(data-text);
+	position:absolute;
+	white-space:nowrap;
+  padding-left:1px;
+}

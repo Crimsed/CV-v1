@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6359918-a6f5-4e61-8cff-fb1eb48198e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2em exo/.idea/2em exo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/css/structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/exo.htlm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2em exo/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/.idea/TD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/Td.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/css/structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD2 formulaire/Formulaire.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/Article.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/Article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/Barre de navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/Barre de navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/Listes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/listes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/puce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/sudoku.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/sudoku.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/tableau.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDExo/tableaux.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debut/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debut/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debut/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debut/2emepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debut/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debut/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../decoupage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../decoupage/intex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../decoupage/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exo bootstrap/css/strucure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exo bootstrap/css/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exo bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exo bootstrap/structure-htlm5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exo évaluée/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exo évaluée/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kp2dpcyAAwrMK9tbyC3Q3GjDO7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6359918-a6f5-4e61-8cff-fb1eb48198e4" name="Default Changelist" comment="" />
+      <created>1606383301848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606383301848</updated>
+      <workItem from="1606383304953" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
