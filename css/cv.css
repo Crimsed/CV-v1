@@ -110,7 +110,7 @@ li a:link{
     }
     100% {
       -webkit-transform: translate(-100%);
-      transform: translate(-185%);
+      transform: translate(-184%);
     }
   }
   .marquee-rtl {
