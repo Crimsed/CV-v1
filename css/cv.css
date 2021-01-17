@@ -12,11 +12,6 @@ footer{
 header{
     text-align: center;
 }
-header img{
-  height: 300px;
-  width: 300px;
-  border-radius: 10%;
-}
 #apropos{
   background-color: rgba(246, 251, 255, 0.3);
   border-radius: 50px;
